@@ -24,7 +24,7 @@ export default function Download() {
             <p className="mt-8 text-sm text-gray-500">
                 Looking for older builds? Visit{" "}
                 <a
-                    href="https://github.com/SimonRonse/TaskBarv4/releases"
+                    href="https://yourdomain.com/downloads/latest.zip"
                     className="text-blue-400 hover:underline"
                 >
                     GitHub Releases
