@@ -8,7 +8,7 @@ export default function Download() {
 
             <div className="flex flex-col gap-4">
                 <a
-                    href="https://yourdomain.com/downloads/latest.zip"
+                    href="https://taskbar.simondevlabs.dev/downloads/latest.zip"
                     className="bg-blue-600 hover:bg-blue-700 px-5 py-3 rounded-xl text-white text-center font-semibold"
                 >
                     🪟 Download for Windows
